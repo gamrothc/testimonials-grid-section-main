@@ -1,5 +1,0 @@
-TODO:
-
-1. update quote to p tag?
-2. create flex for the all the testimonials to make it responsive?
-3. the headshot photo needs to be zoomed in some
